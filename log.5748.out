@@ -1,0 +1,48 @@
+Extracting ../data/MNIST_data/train-images-idx3-ubyte.gz
+Extracting ../data/MNIST_data/train-labels-idx1-ubyte.gz
+Extracting ../data/MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting ../data/MNIST_data/t10k-labels-idx1-ubyte.gz
+mnist.train.num_examples =  55000
+mnist.test.labels =  10000
+Start Trainging...
+epoch 0
+epoch = 0, accuracy in test = 0.8289
+epoch 1
+epoch = 1, accuracy in test = 0.9689
+epoch 2
+epoch = 2, accuracy in test = 0.9763
+epoch 3
+epoch = 3, accuracy in test = 0.9806
+epoch 4
+epoch = 4, accuracy in test = 0.9826
+epoch 5
+epoch = 5, accuracy in test = 0.9836
+epoch 6
+epoch = 6, accuracy in test = 0.9857
+epoch 7
+epoch = 7, accuracy in test = 0.9860
+epoch 8
+epoch = 8, accuracy in test = 0.9872
+epoch 9
+epoch = 9, accuracy in test = 0.9880
+epoch 10
+epoch = 10, accuracy in test = 0.9886
+epoch 11
+epoch = 11, accuracy in test = 0.9882
+epoch 12
+epoch = 12, accuracy in test = 0.9883
+epoch 13
+epoch = 13, accuracy in test = 0.9892
+epoch 14
+epoch = 14, accuracy in test = 0.9891
+epoch 15
+epoch = 15, accuracy in test = 0.9900
+epoch 16
+epoch = 16, accuracy in test = 0.9896
+epoch 17
+epoch = 17, accuracy in test = 0.9902
+epoch 18
+epoch = 18, accuracy in test = 0.9898
+epoch 19
+epoch = 19, accuracy in test = 0.9905
+Used time: 1.05 minutes
